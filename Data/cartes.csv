@@ -1,0 +1,24 @@
+1;Edgar Codd;Professeurs;Fondateur des bases de données relationnelles;aucune
+2;John von Neuman;Professeurs;Concepteur des premiers ordinateurs;aucune
+3;Allan Turing;Professeurs;Fondateur des principes mathématiques à la base de l'informatique;aucune
+4;JCR Licklider;Professeurs;Fondateur du réseau Internet;aucune
+5;Ada Lovelace;Professeurs;Conceptrice du premier programme informatique;aucune
+6;Grace Hopper;Professeurs;Conceptrice des langage Fortran et Cobol;aucune
+
+1;Systèmes informatiques;Matières;Principe de fonctionnement des ordinateurs;aucune
+2;Algorithmique-Programmation;Matières;Principe de programmation des ordinateurs;aucune
+3;Base de données;Matières;Stockage et interrogation des données;aucune
+4;Conception Orientée Objet;Matières;Conception d'application orientée objet;aucune
+5;Interface Homme-Machine;Matières;Conception des interfaces utilisateur;aucune
+6;Architecture des réseaux;Matières;Principe de fonctionnement des réseaux;aucune
+
+1;Amphithéâtre;Salles;Grande salle de cours;aucune
+2;Salle TP;Salles;Salle contenant des ordinateurs;aucune
+3;Salle TD;Salles;Salle contenant une trentaine de tables et chaises;aucune
+4;Bureau Technicien;Salles;Bureau où venir chercher de l'aide en cas de problème informatique;aucune
+5;Bureau du Chef de Département;Salles;Antre secrète du chef de département;aucune
+6;Salle des profs;Salles;Salle de détente des professeurs;aucune
+7;Local INFASSO;Salles;Repère des étudiants;aucune
+8;Secrétariat;Salles;Bureau où aller justifier ses absences;aucune
+9;Bureau du directeur des études;Salles;Salle où aller en cas de problème pédagogique;aucune
+10;Local archive!;Salles;Lieu secret du sous-sol où l'on peut faire son hypothèse;aucune
